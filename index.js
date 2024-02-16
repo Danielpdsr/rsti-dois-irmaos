@@ -43,6 +43,9 @@ console.log(array.length)*/
 } */
 
 function  imprimaNome(nome) {
-    console.log(`Ola ${nome}`)
+    console.log(`Óla ${nome}`)
+    
 }
 imprimaNome('Daniel')
+imprimaNome('joao')
+imprimaNome('nani')
