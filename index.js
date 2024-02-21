@@ -42,10 +42,52 @@ console.log(array.length)*/
     console.log("Ola Mundo!")
 } */
 
-function  imprimaNome(nome) {
+/*function  imprimaNome(nome) {
     console.log(`Óla ${nome}`)
     
 }
 imprimaNome('Daniel')
 imprimaNome('joao')
-imprimaNome('nani')
+imprimaNome('nani')*/
+
+/*const a = 1
+
+function imprimeVariavel () {
+    const b = 2
+    console.log('variavel a', a)
+    console.log('variavel b', b)
+}
+    imprimeVariavel()
+
+    console.log('variavel a', a)
+    console.log('variavel b', b)
+
+    function calculaArea(altura, largura){
+        const area = altura * largura
+        return area
+    }
+    // atribui retorno á uma variavel
+    const areaCalculada = calculaArea(2, 3)
+// imprime retorno no console
+    console.log (calculaArea(2,3)
+
+
+    function somaNumeros(num1, num2){
+        return = num1 + num2
+        
+    }
+// soma de arrays
+    var somaNumeros = resultadoDaSoma(5, 5)
+    console.log (somaNumeros(5, 5))
+
+    function recebeArray(arrayDeNumeros= []){
+        return [(arrayDeNumeros.length)/2, arrayDeNumeros[0]/2];
+    }
+        console.log(recebeArray([1,2,3,4,5,6,7,8,9]))*/
+    
+        const imprimaNome = function (nome, sobreNome){
+        const recebeNome = nome + sobreNome
+        }
+    
+
+    
